@@ -8,3 +8,6 @@
 
 # print(c.recv(1024).decode())
 
+yrthtrdjn  
+\yi;kh;
+iu;kj;
